@@ -8,10 +8,20 @@ body {
     font-weight: bold;
 }
 
+.title-main a {
+    text-decoration: none;
+    color: rgb(248, 83, 0);
+}
+
 .title-main {
     border: 10px solid rgb(225, 141, 225);
     color: rgb(248, 83, 0);
     padding: 10px 10px 10px 30px;
+    box-shadow: 0px 15px 10px -10px rgb(74, 74, 74);
+}
+
+.center {
+    text-align: center;
 }
 
 .recipe {
@@ -28,6 +38,11 @@ body {
 
 .recipe a {
     color: black;
+    text-decoration: none;
+}
+
+.recipe a:hover {
+    text-decoration: underline;
 }
 
 .container {
