@@ -1,6 +1,7 @@
 body {
     background-color: rgb(235, 238, 144);
 }
+
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: 10px solid rgb(225, 141, 225);
@@ -9,6 +10,7 @@ h1 {
     font-size: 47px;
     font-weight: bold;
 }
+
 .recipe {
     font-size: 30px;
     padding-left: 60px;
@@ -16,9 +18,16 @@ h1 {
     color: black;
     font-weight: bold;
 }
+
 .recipe li {
     margin-bottom: 20px;
 }
+
 .recipe a {
     color: black;
+}
+
+.header-link {
+    text-decoration: none;
+    font-size: 20px;
 }
