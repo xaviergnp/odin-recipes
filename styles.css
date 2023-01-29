@@ -49,3 +49,20 @@ body {
     padding: 30px 10px 0px 0px;
 }
 
+h2 {
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+p, .container li {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
